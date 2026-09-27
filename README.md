@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[https://github-readme-stats.vercel.app/api/top-langs/?username=songhai-yeanlang&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=songhai-yeanlang&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhai-yeanlang&layout=compact&v=1)](https://github.com/anuraghazra/github-readme-stats)
